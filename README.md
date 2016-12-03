@@ -10,9 +10,12 @@ This project will help kickstart open projects.
 ## Teammates 
   * James Lytle
 
+## Workplace
+
 ## Schedule
   * 1-3 Months
   * Start date: Dec 1, 2016
+  * Time committment: 10-20hrs over 2-3 Nights a week
 
 ## Phases
   * [Research](/Research)
