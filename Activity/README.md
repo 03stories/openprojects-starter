@@ -4,7 +4,7 @@ This is a frictionless place to record thoughts, findings, and notes. Some of th
 
 ## Dec 2, 2016
 
-### Watched Seth Godin talk on school. https://youtu.be/sXpbONjV1Jc
+Watched Seth Godin talk on school. https://youtu.be/sXpbONjV1Jc
 ![OpenIDEO tweet](../Images/OpenIDEO___OpenIDEO____Twitter.jpg)
 * Work: "Will this be on the test?"
 * Art: You want to do more of it.
@@ -18,5 +18,10 @@ This is a frictionless place to record thoughts, findings, and notes. Some of th
 * Myth 2: Great parents have kids or perform great in school.
 * We teach crudely little about connecting dots. 
 
-### Greatest Sales Deck post https://medium.com/the-mission/the-greatest-sales-deck-ive-ever-seen-4f4ef3391ba0
+Greatest Sales Deck post https://medium.com/the-mission/the-greatest-sales-deck-ive-ever-seen-4f4ef3391ba0
 * Article may be useful about thinking about how to pitch a project idea to get others involved. 
+
+- Started this Github project today as a prototype for creating a transparent and remixable form of project management. 
+- Doubt it's really the most comfortable way for people to get started, but may work with a bit of training. Naturally, it's especially useful for any projects that involve projects with code. 
+
+
