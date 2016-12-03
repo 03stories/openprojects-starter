@@ -16,5 +16,5 @@
 * Myth 2: Great parents have kids or perform great in school.
 * We teach crudely little about connecting dots. 
 
+### Greatest Sales Deck post https://medium.com/the-mission/the-greatest-sales-deck-ive-ever-seen-4f4ef3391ba0
 Article may be useful about thinking about how to pitch a project idea to get others involved. 
-https://medium.com/the-mission/the-greatest-sales-deck-ive-ever-seen-4f4ef3391ba0
