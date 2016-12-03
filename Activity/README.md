@@ -1,4 +1,6 @@
 # Activity 
+This is a frictionless place to record thoughts, findings, and notes. Some of this content will likely be organized into the other phase folders.
+
 
 ## Dec 2, 2016
 
@@ -17,4 +19,4 @@
 * We teach crudely little about connecting dots. 
 
 ### Greatest Sales Deck post https://medium.com/the-mission/the-greatest-sales-deck-ive-ever-seen-4f4ef3391ba0
-Article may be useful about thinking about how to pitch a project idea to get others involved. 
+* Article may be useful about thinking about how to pitch a project idea to get others involved. 
