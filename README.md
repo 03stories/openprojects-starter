@@ -11,6 +11,7 @@ This project will help kickstart open projects.
   * James Lytle
 
 ## Workplace
+  * Hip ATL coffee shops
 
 ## Schedule
   * 1-3 Months
@@ -24,6 +25,8 @@ This project will help kickstart open projects.
   * [Refinement](/Refinement)
   * [Presentation](/Presentation)
   * [Impact](/Impact)
+
+[Activity](/Activity) - collect ongoing thoughts here.
 
 ---
 Styling tips [cheatsheet for Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet), from Adam P.
