@@ -17,10 +17,10 @@ This project will help kickstart open projects.
 ## Phases
   * [Research](/Research)
   * [Ideas](/Ideas)
-  * Feedback
-  * Refinement
-  * Presentation
-  * Impact
+  * [Feedback](/Feedback)
+  * [Refinement](/Refinement)
+  * [Presentation](/Presentation)
+  * [Impact](/Impact)
 
 ---
 Styling tips [cheatsheet for Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet), from Adam P.
