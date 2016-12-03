@@ -18,10 +18,10 @@ Watched Seth Godin talk on school. https://youtu.be/sXpbONjV1Jc
 * Myth 2: Great parents have kids or perform great in school.
 * We teach crudely little about connecting dots. 
 
-Greatest Sales Deck post https://medium.com/the-mission/the-greatest-sales-deck-ive-ever-seen-4f4ef3391ba0
-* Article may be useful about thinking about how to pitch a project idea to get others involved. 
+Greatest Sales Deck post https://medium.com/the-mission/	the-greatest-sales-deck-ive-ever-seen-4f4ef3391ba0
+	* Article may be useful about thinking about how to pitch a project idea to get others involved. 
 
-- Started this Github project today as a prototype for creating a transparent and remixable form of project management. 
-- Doubt it's really the most comfortable way for people to get started, but may work with a bit of training. Naturally, it's especially useful for any projects that involve projects with code. 
+Started this Github project today as a prototype for creating a transparent and remixable form of project management. 
+Doubt it's really the most comfortable way for people to get started, but may work with a bit of training. Naturally, it's especially useful for any projects that involve projects with code. 
 
 
