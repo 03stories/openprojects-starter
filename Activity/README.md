@@ -24,4 +24,8 @@ Greatest Sales Deck post https://medium.com/the-mission/the-greatest-sales-deck-
 Started this Github project today as a prototype for creating a transparent and remixable form of project management. 
 Doubt it's really the most comfortable way for people to get started, but may work with a bit of training. Naturally, it's especially useful for any projects that involve projects with code. 
 
+## Dec 3
 
+Downloaded a markdown editor called MacDown. Just playing with some tools and editing styles for how to update the repo. I also, there's lots of online editing tools on Github.com. Noteably, they have Projects and Wikis and Pages. Pages may be the most useful thing, as it makes it pretty easy to put a nice UI face on your project. 
+
+I need to think through and research more the core value of a version tracking tool. Perhaps the best thing going for it is the fact that it's practically the online face of open-source, and so there's lots they've learned and implemented around those needs. Obviously, it lends itself to programmers, but it's more or less a way to archive and share information online, which is the same fundamental activity of the other tools people use.
