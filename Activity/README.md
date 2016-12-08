@@ -32,7 +32,7 @@ I need to think through and research more the core value of a version tracking t
 
 ## Dec 7
 
-Had a great dinner meeting with Caleb Duttweiller at Tin Drum. He's a 3rd Grade teacher at Ison Springs. Got a good rundown on what a school day and year is like. 
+Had a great dinner meeting with Caleb Duttweiller at Tin Drum. He's a [3rd Grade teacher at Ison Springs](http://isonthirdgrade.weebly.com). Got a good rundown on what a school day and year is like. 
 * Has students at various skill levels, often groups students by these levels and moves them around the room working on diverse subject area challenges. 
 * Reading & Writing have to follow a rather strict curriculum schedule.
 * Often the pressure of teaching for the test.
