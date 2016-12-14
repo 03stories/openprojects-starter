@@ -48,3 +48,6 @@ We talked through starting to track key information about each person:
 * What skills are behind / ahead for this age?
 * What do you really care about and would like to see changed?
 
+## Dec 14
+
+The evening of Dec. 7, I attended [my first](https://twitter.com/scitechyEDU/status/806681403232583680) Twitter [#dtk12chat](https://twitter.com/search?src=typd&q=%23DTK12chat). Through [Mary Cantwell](https://twitter.com/scitechyEDU) I learned about several more amazing education relating innovators, including an organization called [Lab Atlanta](http://www.labatlanta.org). 
